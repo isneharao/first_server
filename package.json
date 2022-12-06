@@ -1,0 +1,23 @@
+{
+  "name": "my-first-server",
+  "version": "1.0.0",
+  "description": "my first server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev":"nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isneharao/first_server.git"
+  },
+  "author": "Sneha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isneharao/first_server/issues"
+  },
+  "homepage": "https://github.com/isneharao/first_server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
